@@ -24,6 +24,7 @@
 - **[A-SSM](link)** — Hybrid sorting algorithm in C++ improving worst-case complexity from O(N²) to O(N log N)
 - **[Army Management System](link)** — Console-based C++ system using OOP and file handling
 - **[Portfolio Website](https://sameerportfolio598.vercel.app)** — Personal portfolio built with Next.js, TypeScript & Tailwind CSS
+- **[Bean Haven](https://bean-haven-seven.vercel.app)** — Responsive coffee shop website built with Next.js, TypeScript & Tailwind CSS
 
 ---
 
