@@ -21,7 +21,7 @@
 
 ## 🚀 Projects
 
-- **[Library Management System](https://library-management-system-beta-orpin.vercel.app)** — Full-featured library app with book search, availability tracking, and user authentication
+- **[Library Management System](https://library-management-system-beta-orpin.vercel.app)** — Full-stack library app with book management, borrowing system, admin dashboard, and role-based authentication built with Next.js, TypeScript, Supabase & PostgreSQL
 - **[Bean Haven](https://bean-haven-seven.vercel.app)** — Responsive coffee shop website built with Next.js, TypeScript & Tailwind CSS
 - **[A-SSM](link)** — Hybrid sorting algorithm in C++ improving worst-case complexity from O(N²) to O(N log N)
 - **[Army Management System](link)** — Console-based C++ system using OOP and file handling
